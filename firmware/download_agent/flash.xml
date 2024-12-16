@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<flash-mode>
+    <project>k6789v1_64</project>
+    <dagent>DA_BR.bin</dagent>
+    <scatter>../MT6789_Android_scatter.xml</scatter>
+    <build_version>alps-mp-s0.mp1.rc-V15.40.1_ant.s0mp1rc.k61v1.64.bsp_P3</build_version>
+    <build_time>2023-10-14 18:31:44</build_time>
+    <version>1.0</version>
+    <contact>Shuai.Zhang</contact>
+</flash-mode>
